@@ -1,0 +1,9 @@
+[package]
+name = "gtk_use"
+version = "0.1.0"
+authors = ["George Shuklin <george.shuklin@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gtk = "*"
+gio = "*"
