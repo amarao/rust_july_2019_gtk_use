@@ -250,6 +250,7 @@ dependencies = [
  "gdk 0.10.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "gio 0.6.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "gtk 0.6.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "rand 0.4.6 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
